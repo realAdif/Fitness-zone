@@ -1,0 +1,32 @@
+<svg
+  version="1.0"
+  id="Layer_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="10px"
+  height="10px"
+  viewBox="0 0 64.00 64.00"
+  enable-background="new 0 0 64 64"
+  xml:space="preserve"
+ 
+  
+  transform="rotate(45)"
+>
+  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+  <g
+    id="SVGRepo_tracerCarrier"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke="#CCCCCC"
+    stroke-width="0.384"
+  ></g>
+  <g id="SVGRepo_iconCarrier">
+    <g>
+      
+      <path
+        fill="#fc585c"
+        d="M31.998,46.43c0.668,0,1.332,0.168,1.938,0.5l10.092,5.579l-1.98-12.119 c-0.203-1.254,0.199-2.527,1.086-3.438l8.563-8.779l-11.654-1.781c-1.316-0.199-2.449-1.043-3.016-2.255l-5.028-10.712 L26.97,24.137c-0.566,1.212-1.699,2.056-3.016,2.255L12.3,28.173l8.563,8.779c0.887,0.91,1.289,2.184,1.086,3.438l-1.98,12.119 l10.092-5.579C30.666,46.598,31.33,46.43,31.998,46.43z"
+      ></path>
+    </g>
+  </g>
+</svg>
