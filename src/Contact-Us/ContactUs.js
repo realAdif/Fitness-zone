@@ -10,7 +10,7 @@ const ContactUs = () => {
 
                 <div className="row d-flex  justify-content-center flex-md-row flex-column my-4">
 
-                    <div className="col-md-4 d-flex justify-content-end my-4" >
+                    <div className="col-md-7 d-flex justify-content-end my-4" >
                         {/* left */}
                         <form style={{ width: "100%" }} >
                             <div className="mb-3 text-white">

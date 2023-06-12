@@ -37,10 +37,10 @@ const OurReviews = () => {
                         <Card name="Sam" />
                     </div>
                     <div className="carousel-item text-white">
-                        <Card name="Aditya" />
+                        <Card name="Rick" />
                     </div>
                     <div className="carousel-item text-white">
-                        <Card name="Aditya" />
+                        <Card name="Carlos" />
                     </div>
                 </div>
                 {/* <button className="carousel-control-prev" type="button" data-bs-target="#text-banner" data-bs-slide="prev">
